@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Wingie Enuygun Company](https://github.com/WEG-Technology/)
 
 
-- 🌱 I’m currently researching Genetetive AI
+- 🌱 I’m currently interesting Genetetive AI
 
 
 - ❓ Ask me about anything
