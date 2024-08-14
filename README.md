@@ -4,20 +4,19 @@
 ### <div align="">I'm Hursit, a Software Architect 👨‍💻 working since 2014 🚀</div>
 
 
-- 🔭 I’m currently working on [Wingie Enuygun Company](https://github.com/WEG-Technology/)
+- 🔭 I’m currently working at [Wingie Enuygun Company](https://github.com/WEG-Technology/)
 
 
-- 🌱 I’m currently interesting in Genetetive AI
+- 🌱 I’m currently interested in Generative AI.
 
 
-- ❓ Ask me about anything
+- ❓ Ask me anything!
 
 
-- ⚡ Fun fact: I am Galatasaray Fan. I love traveling, eating and coding.
+- ⚡ Fun fact: I am a Galatasaray fan. I love traveling, eating, and coding.
 
 
 - ✨ My Personality: I am fun, energetic, and emotional.
-
 
 <br/>  
 
