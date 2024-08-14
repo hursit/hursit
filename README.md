@@ -16,6 +16,9 @@
 - ⚡ Fun fact: I am Galatasaray Fan. I love traveling, eating and coding.
 
 
+- ✨ My Personality: I am fun, energetic, and emotional.
+
+
 <br/>  
 
 
