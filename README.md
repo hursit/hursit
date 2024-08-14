@@ -23,13 +23,20 @@
 
 ## My Skill Set
 <table><tr><td>
+<a href="https://istio.io/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Istio-bluelogo-nobackground-unframed.svg/1365px-Istio-bluelogo-nobackground-unframed.svg.png" alt="Istio" height="80" /></a>
+<a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo" height="80" /></a>
+<a href="https://memcached.org/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo7L4BBDXLPAkbJgfFpI03OD-waoVSK1d68w&s" alt="Memcached" height="80" /></a>
 <a href="https://www.terraform.io/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="80" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="80" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="80" /></a>  
+<a href="https://www.envoyproxy.io/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://seeklogo.com/images/E/envoy-proxy-logo-AA21B06AE5-seeklogo.com.png" alt="Envoy Proxy" height="80" /></a>  
+<a href="https://www.haproxy.org/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/haproxy_logo_icon_171017.png" alt="Haproxy" height="80" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="80" /></a>  
+<a href="https://www.vagrantup.com/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://seeklogo.com/images/V/vagrant-logo-B214F47636-seeklogo.com.png" alt="Vagrant" height="80" /></a>  
 <a href="https://symfony.com/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/symfony_black_03.svg" alt="Symfony" height="80" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="80" /></a>  
+<a href="https://varnish-cache.org/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/varnish_cache_logo_icon_169294.png" alt="Varnish" height="80" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="80" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="80" /></a>  
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="max-width: 100%;padding: 20px 20px 20px 20px;" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="80" /></a>  
