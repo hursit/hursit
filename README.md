@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-
 ### <div align="">I'm Hursit, a Software Architect 👨‍💻 working since 2014 🚀</div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hursit&label=Profile%20views&color=0e75b6&style=flat" alt="hursit" /> </p>
 
 - 🔭 I’m currently working at [Wingie Enuygun Company](https://github.com/WEG-Technology/)
 
